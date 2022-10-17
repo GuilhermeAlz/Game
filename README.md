@@ -1,1 +1,1 @@
-This is a simple game i am developing using pygame library.
+This is a simple game i am developing using the pygame library.
